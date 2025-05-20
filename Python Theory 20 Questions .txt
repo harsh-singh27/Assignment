@@ -1,0 +1,68 @@
+
+Q.1- What is Python?
+Ans: Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Q.2- Tell me the areas where python is being used .
+Ans: Python is widely used across various domains due to its versatility and ease of use. Some key areas are: Data Science & Analytics, Machine Learning & AI, Web Development, Game Development, Automation & Scripting, etc.
+
+Q.3- What is a high-level and low-level language?
+Ans: - High-level languages are user-friendly, abstracted from machine code, and   easier to understand (e.g., Python, Java).
+     - Low-level languages are closer to hardware, requiring manual memory management (e.g., Assembly language).
+
+Q.4- What is an interpreted language?
+Ans: An interpreted language executes code line-by-line at runtime, without needing prior compilation(e.g.,Python,JavaScript).
+
+Q.5- What is a compiled language?
+Ans: A compiled language converts source code into machine code before execution, improving speed and efficiency(e.g.,C,C++).
+ 
+Q.6- What is a statically typed language?
+Ans: In statically typed languages, variable types are declared explicitly at compile time (e.g., Java, C++).
+
+Q.7- What is a dynamically typed language?
+Ans: In dynamically typed languages, variable types are determined at runtime, providing flexibility but potentially causing type-related errors (e.g., Python, JavaScript).
+
+Q.8- What is a weakly typed language?
+Ans: A weakly typed language allows implicit type conversions, meaning different data types can be used interchangeably (e.g., JavaScript, PHP).
+
+Q.9- What is a strongly typed language?
+Ans: A strongly typed language restricts implicit type conversions, enforcing strict type compatibility (e.g., Python, Java).
+
+Q.10- What is a .PYC file (Bytecode)?
+Ans: A .pyc file is a compiled Python file containing bytecode, which is generated after the initial execution to improve performance.
+
+Q.11- What is PVM?
+Ans: The Python Virtual Machine (PVM) is Python’s runtime environment that interprets and executes bytecode.
+
+Q.12- How does Python work internally?
+Ans:   - Source code is converted into bytecode.
+       - Bytecode is stored in .pyc files.
+       - The PVM executes the bytecode.
+
+Q.13- What is PEP 8?
+Ans: PEP 8 is Python’s official style guide, ensuring consistent formatting and readability in code.
+
+Q.14- What is PIP? What is the use of PIP?
+Ans: PIP is the Python Package Installer, used for installing and managing third-party libraries.
+
+Q.15- What is bytecode and when is it created?
+Ans:    - Bytecode is an intermediate representation of Python source code.
+        - It is created when a Python program is executed for the first time.
+
+Q.16- What is indentation in Python? Does Python rely on indentation?
+Ans:  Python uses indentation (instead of {}) to define code blocks. Yes, Python strictly enforces indentation for proper execution.
+
+Q.17- What is variable ?
+Ans: A variable is like a container that holds data. It allows us to store values and reference them later in our code. In python the type of variable is determined automatically based on the assigned value.
+
+Q.18- What are varable naming rule ?
+Ans: - It must start with a letter or underscore(_).
+     - It can contain letters,digits,and underscores.
+     - It is case-sensitive.
+     - We can't use Python keywords(if,while,class,etc.).
+
+Q.19- What is datatype and name of datatype ?
+Ans: A data type defines the kind of value a variable can hold, determining how the data is stored and manipulated. Some data types names are: int,float,str,bool,list,tuple,set,dict,etc.
+
+Q.20- What is keyword in Python ?
+Ans: Keywords are reserved words that have a special meaning in Python and can't be used as variable names or function names. There are 35 keywords in Python.Some keywords are: if, else, for, return, True, False, etc.
+
